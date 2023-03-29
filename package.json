@@ -1,0 +1,21 @@
+{
+  "name": "binary_search_tree",
+  "version": "1.0.0",
+  "description": "A BST allows fast operations for lookup, insertion, and deletion of data items.",
+  "main": "bst.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thony29/binary_search_tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thony29/binary_search_tree/issues"
+  },
+  "homepage": "https://github.com/Thony29/binary_search_tree#readme"
+}
